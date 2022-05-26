@@ -1,5 +1,5 @@
 = IBM PS/2 P7X Floppy Drive Adapter
 Malte Dehling <mdehling@gmail.com>
 
-I have moved this repository to my new account here:
-https://github.com/1k5/p7x-floppy-adapter[mdehling/p7x-floppy-adapter].
+I have moved this repository to my new account:
+https://github.com/mdehling/p7x-floppy-adapter[mdehling/p7x-floppy-adapter].
