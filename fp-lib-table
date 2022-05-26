@@ -1,3 +1,0 @@
-(fp_lib_table
-  (lib (name p7x-floppy-adapter)(type KiCad)(uri ${KIPRJMOD}/p7x-floppy-adapter.pretty)(options "")(descr ""))
-)
